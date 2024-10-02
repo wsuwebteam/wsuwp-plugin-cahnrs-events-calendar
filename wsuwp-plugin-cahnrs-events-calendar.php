@@ -5,7 +5,7 @@
  * Plugin Name:       CAHNRS Events Calendar Functionality
  * Plugin URI:        https://cahnrs.wsu.edu/
  * Description:       Custom functionality for The Events Calendar Plugin
- * Version:           1.0.0
+ * Version:           1.1
  * Author:            CAHNRS Communications
  * Author URI:        https://cahnrs.wsu.edu/
  * Text Domain:       cahnrs-events-calendar-plugin
@@ -17,7 +17,7 @@ if ( ! defined( 'WPINC' ) ) {
 }
 
 //Define the version of this CAHNRS Gutenberg plugin
-define( 'CAHNRSEVENTSPLUGINVERSION', '1.0' );
+define( 'CAHNRSEVENTSPLUGINVERSION', '1.1' );
 
 // Gets CAHNRS Gutenberg plugin URL.
 function _get_cahnrs_events_plugin_url() {
